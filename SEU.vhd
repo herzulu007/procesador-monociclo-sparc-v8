@@ -1,5 +1,6 @@
 
-
+//unidad de extencion de signo
+	
 use IEEE.STD_LOGIC_1164.ALL;
 
 
